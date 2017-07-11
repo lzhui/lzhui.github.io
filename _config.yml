@@ -11,7 +11,7 @@ github_repo: "https://github.com/lzhui/lzhui.github.io.git" # you code repositor
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "与时俱进"
+sidebar-about-description: "与时俱进,一步一个脚印"
 sidebar-avatar: img/avatar-lzh.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
