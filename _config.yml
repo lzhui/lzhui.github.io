@@ -1,10 +1,10 @@
 # Site settings
-title: LZH Blog
-SEOTitle: 林增晖的博客 | LZH Blog
-header-img: img/post-bg-debug.jpg
+title: Lzhui’s Blog
+SEOTitle: 林增晖的博客 | Lzhui's blog
+header-img: img/post-bg-debug.png
 email: 921424330@qq.com
 description: "如果你的心是乱的，你看世界也是乱的"
-keyword: "LZH, LZH Blog, 林增晖的博客, linzenghui, 林增晖, iOS, Apple, iPhone"
+keyword: "lzh, lzhui Blog, 林增晖的博客, linzenghui, 林增晖, iOS, Apple, iPhone"
 url: "http://lzhui.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/lzhui/lzhui.github.io.git" # you code repository
